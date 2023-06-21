@@ -3,7 +3,7 @@
 ### Hi there 👋
 **Passionate Programmer**
 
-### 🌱 I’m currently learning
+### 🌱 Languages
 - [Go lang](https://github.com/zakisk/temp-converter)
 
 ### 👯 I’m looking to collaborate on
@@ -27,3 +27,9 @@
 - [Kotlinlang Slack](https://kotlinlang.slack.com/team/U0422A92KHV)
 - [Gophers (Go Language Community Slack)](https://gophers.slack.com/team/U053HC02MN0)
 
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=zakisk&&show_icons=true&theme=radical"/>
+  </a>
+</p>

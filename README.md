@@ -1,10 +1,15 @@
 
 
 ### Hi there 👋
-**Passionate Programmer**
+**I am Zaki**
 
-### 🌱 Languages
-- [Go lang](https://github.com/zakisk/temp-converter)
+# Languages & Tools 👨‍💻 🛠:
+ - Golang
+ - Docker
+ - Kuberenetes
+ - Java
+ - Kotlin
+ - C++
 
 ### 👯 I’m looking to collaborate on
 - Android apps
@@ -30,6 +35,6 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=zakisk&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=zakisk&&show_icons=true&theme=gruvbox"/>
   </a>
 </p>

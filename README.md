@@ -12,8 +12,8 @@
  - C++
 
 ### 👯 I’m looking to collaborate on
-- Android apps
 - Go language projects
+- DevOps
 
 ### 🔭 Some projects for showcase
 - [Microservices in GO](https://github.com/zakisk/microservice)

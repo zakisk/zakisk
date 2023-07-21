@@ -7,9 +7,9 @@
  - Golang
  - Docker
  - Kuberenetes
- - Java
- - Kotlin
  - C++
+ - Kotlin
+ - Java
 
 ### 👯 I’m looking to collaborate on
 - Go language projects
@@ -29,7 +29,7 @@
 
 ### 📫 How to reach me
 - [Email](mailto:zs84907@gmail.com)
-- [Kotlinlang Slack](https://kotlinlang.slack.com/team/U0422A92KHV)
+- [Layer5 Slack](https://layer5io.slack.com/team/U04SGNKLGAJ)
 - [Gophers (Go Language Community Slack)](https://gophers.slack.com/team/U053HC02MN0)
 
 

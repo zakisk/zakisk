@@ -11,20 +11,17 @@
  - Kotlin
  - Java
 
+
+### 👯 Active contributor at
+- [Meshery](https://github.com/meshery/meshery)
+
+
 ### 👯 I’m looking to collaborate on
 - Go language projects
 - DevOps
 
 ### 🔭 Some projects for showcase
 - [Microservices in GO](https://github.com/zakisk/microservice)
-- [Car reselling App](https://github.com/zakisk/SalvageAuctionIndia)
-- [Library Management App](https://github.com/zakisk/Library-Management-App)
-- [Simple drawing App](https://github.com/zakisk/EdvoraApp)
-
-
-### 👯 Active contributor at
-- [Meshery](https://github.com/meshery/meshery)
-
 
 
 ### 📫 How to reach me

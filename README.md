@@ -22,8 +22,8 @@
 - [Simple drawing App](https://github.com/zakisk/EdvoraApp)
 
 
-### 👯 have contributed to
-- Added a [Image Magnification Component](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/pull/80) in [Compose Cookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) that is fully built in [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjw9deiBhC1ARIsAHLjR2CSeGqv9BwkO9Xn3uw7xh6jOeo20FwUV4OoLY9Jk0x954HyB-Nu3v8aAl3pEALw_wcB&gclsrc=aw.ds).
+### 👯 Active contributor at
+- [Meshery](https://github.com/meshery/meshery)
 
 
 

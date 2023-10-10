@@ -22,6 +22,7 @@
 
 ### 🔭 Some projects for showcase
 - [Microservices in GO](https://github.com/zakisk/microservice)
+- [Family Tree - CLI App](https://github.com/zakisk/family-tree)
 
 
 ### 📫 How to reach me

@@ -12,10 +12,6 @@
  - Java
 
 
-### 👯 Active contributor at
-- [Meshery](https://github.com/meshery/meshery)
-
-
 ### 👯 I’m looking to collaborate on
 - Go language projects
 - DevOps

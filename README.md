@@ -7,18 +7,9 @@
  - Golang
  - Docker
  - Kuberenetes
- - C++
- - Kotlin
- - Java
-
-
-### 👯 I’m looking to collaborate on
-- Go language projects
-- DevOps
-
-### 🔭 Some projects for showcase
-- [Microservices in GO](https://github.com/zakisk/microservice)
-- [Family Tree - CLI App](https://github.com/zakisk/family-tree)
+ - OpenShift
+ - OpenShift Pipelines
+ - CI/CD
 
 
 ### 📫 How to reach me

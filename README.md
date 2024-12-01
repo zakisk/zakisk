@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-**I am Zaki**
+**I am Zaki Working at Red Hat**&nbsp;&nbsp;  <img src="https://www.redhat.com/rhdc/managed-files/Logo-Red_Hat-Hat_icon-Standard-RGB.svg" width="30" height="25">
 
 # Languages & Tools 👨‍💻 🛠:
  - Golang
@@ -14,7 +14,6 @@
 
 ### 📫 How to reach me
 - [Email](mailto:zs84907@gmail.com)
-- [Layer5 Slack](https://layer5io.slack.com/team/U04SGNKLGAJ)
 - [Gophers (Go Language Community Slack)](https://gophers.slack.com/team/U053HC02MN0)
 
 
